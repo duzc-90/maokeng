@@ -1,3 +1,6 @@
 <!--index.wxml-->
 <view class="container">
+  <view>最新</view>
+  <view>最火</view>
+  <view>原创</view>
 </view>

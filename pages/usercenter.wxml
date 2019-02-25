@@ -1,0 +1,10 @@
+<!--pages/usercenter.wxml-->
+<view class='page-usercenter'>
+  <view class='avatar'>
+    <image class="userinfo-avatar" src="{{userInfo.avatarUrl}}" mode="cover"></image>
+    <text class="userinfo-nickname">{{userInfo.nickName}}</text>
+  </view>
+  <view class='useritem'>我的原创</view>
+  <view class='useritem'>我的收藏</view>
+  <view class='useritem'>我的关注</view>
+</view>
